@@ -11,6 +11,15 @@
    
    
      <item>
+       <title>h&#39;u&#39;g&#39;o</title>
+       <link>https://wowodavid.github.io/posts/hugo&#43;github-pages&#43;obsidian%E5%8D%9A%E5%AE%A2%E4%BD%9C%E4%B8%9A/</link>
+       <pubDate>Sun, 04 Dec 2022 21:38:53 +0800</pubDate>
+       
+       <guid>https://wowodavid.github.io/posts/hugo&#43;github-pages&#43;obsidian%E5%8D%9A%E5%AE%A2%E4%BD%9C%E4%B8%9A/</guid>
+       <description>&lt;p&gt;hugo正常配置，其中config里需要稍许调整&lt;/p&gt;&lt;p&gt;github pages正常建立一个pages项目&lt;/p&gt;&lt;p&gt;obsidian，使用了quickadd+templater两个插件&lt;/p&gt;&lt;p&gt;另外写了简单的脚本自动git add、commit、push&lt;/p&gt;</description>
+     </item>
+   
+     <item>
        <title>日记</title>
        <link>https://wowodavid.github.io/posts/%E6%97%A5%E8%AE%B0/</link>
        <pubDate>Sun, 04 Dec 2022 21:14:58 +0800</pubDate>
